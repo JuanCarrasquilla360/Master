@@ -70,6 +70,10 @@ a:hover {
   z-index:100;
 }
 
+.whatsapp:hover {
+  color:#FFF !important;
+}
+
 .whatsapp-icon {
   margin-top:13px;
 }s
@@ -539,7 +543,7 @@ blockquote p {
 .parallax-section {
   z-index: -1;
   clear: both;
-  background-image: url('images/witch/home.jpeg');
+  background-image: url('images/witch/bruj1.jpeg');
   /* background-image: url('images/home.jpg'); */
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -1858,3 +1862,9 @@ footer p, footer a {
     font-size: 1.5em;
     padding: 8px;
   }
+
+  .evidencia {
+    max-width: 100%;
+    height: auto;
+  }
+}
