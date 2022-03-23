@@ -577,7 +577,6 @@ blockquote p {
 }
 
 .responsability {
-  padding: 20px;
   text-align: justify;
 }
 
@@ -1834,10 +1833,6 @@ footer p, footer a {
 
   .social-set a {
     padding: 0 !important;
-  }
-
-  .responsability {
-    padding: 20px 10px ;
   }
 
   #page-sidebar-no-sidebar .post-wrap .post {
